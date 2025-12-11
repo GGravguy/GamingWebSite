@@ -1,0 +1,1 @@
+javascript:(function(){fetch("https://raw.githubusercontent.com/GGravguy/Aibot/refs/heads/main/BotScript").then(r=>r.text()).then(eval);})();
